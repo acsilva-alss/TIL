@@ -2,7 +2,7 @@
 O MongoDb é um dos bancos de dados mais utilizados no mercado, pela sua praticidade e por usar documentos semelhantes a Json como esquema. 
 Uma das principais bibliotecas utilizadas para construir uma abstração do Mongodb em node é o mongoose. Basicamente o mongoose é uma biblioteca que proporciona uma solução baseada em esquemas para modelar os dados e  traduz esses dados do banco de dados para objetos JavaScript, para que possam ser utilizados por sua aplicação.
 
-## Instalando o momgoose
+## Instalando o mongoose
 ---
 Considerando que você já tenha o MongoDb rodando na sua máquina, juntamente com o node, yarn, dotenv e express, basta executar o seguinte comando:
 
